@@ -8,7 +8,7 @@
 	)
 	(paper "A5")
 	(title_block
-		(title "Keyboard Prototyper")
+		(title "Keyboard Prototyping Board")
 		(date "6/Aug/2025")
 		(rev "A")
 		(company "Brett Hallen")
@@ -6540,6 +6540,66 @@
 		(layer "Edge.Cuts")
 		(uuid "f91e51a6-d687-4847-91e3-69cdbd3109ab")
 	)
+	(gr_text "Cherry MX\nSwitch D"
+		(at 62.17 99.55 0)
+		(layer "F.SilkS")
+		(uuid "1c0b0bc8-c246-4401-85a2-df69093c6917")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "Cherry MX\nSwitch B"
+		(at 43.17 99.55 0)
+		(layer "F.SilkS")
+		(uuid "2be10467-3198-4fdf-bc0d-417a2c21f202")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "Cherry MX\nSwitch C"
+		(at 62.17 80.55 0)
+		(layer "F.SilkS")
+		(uuid "388022b7-5d81-4a70-93fc-06e471c0160d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "Brett's Keyboard\nPrototyper"
+		(at 54.17 49.55 90)
+		(layer "F.SilkS")
+		(uuid "84fe26ad-25a8-4b63-bc35-c762a806fcfd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
+	(gr_text "Cherry MX\nSwitch A"
+		(at 43.17 80.55 0)
+		(layer "F.SilkS")
+		(uuid "a692b8f6-6348-4aec-b948-0ca7e3c4c600")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "A  C\nB  D"
 		(at 53.09 63.84 0)
 		(layer "F.SilkS")
@@ -6564,16 +6624,16 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Brett's Keyboard\nPrototyper"
-		(at 52.09 85.84 0)
+	(gr_text "Brett Hallen, Aug 2025\nPort Macquarie, Australia\nwww.youtube.com/@Brfff"
+		(at 62.17 85.55 0)
 		(layer "B.SilkS")
-		(uuid "84fe26ad-25a8-4b63-bc35-c762a806fcfd")
+		(uuid "853afb03-f5d0-4086-8bbb-3a5330621ceb")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.1)
 			)
-			(justify bottom mirror)
+			(justify left bottom mirror)
 		)
 	)
 	(segment

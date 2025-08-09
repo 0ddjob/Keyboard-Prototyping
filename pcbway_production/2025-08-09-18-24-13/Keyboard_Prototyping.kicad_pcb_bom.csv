@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"J1, J18, J2, J3, J4, J6, J7, J8",8,Conn_02x03_Odd_Even,PinHeader_2x03_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+J5,1,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+SW1,1,A,SW_Cherry_MX_PCB_1.00u,,,,tht,"Push button switch, generic, two pins"
+SW2,1,C,SW_Cherry_MX_PCB_1.00u,,,,tht,"Push button switch, generic, two pins"
+SW3,1,B,SW_Cherry_MX_PCB_1.00u,,,,tht,"Push button switch, generic, two pins"
+SW4,1,D,SW_Cherry_MX_PCB_1.00u,,,,tht,"Push button switch, generic, two pins"

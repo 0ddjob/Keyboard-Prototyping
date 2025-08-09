@@ -1,0 +1,14 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+38.01,-43.04,0.0,top,J1,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+38.01,-58.28,0.0,top,J18,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+58.33,-43.04,0.0,top,J2,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+58.33,-58.28,0.0,top,J3,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+45.63,-43.04,0.0,top,J4,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+44.36,-37.96,90.0,top,J5,,,PinHeader_1x08_P2.54mm_Vertical,Conn_01x08,tht
+45.63,-58.28,0.0,top,J6,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+65.95,-43.04,0.0,top,J7,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+65.95,-58.28,0.0,top,J8,,,PinHeader_2x03_P2.54mm_Vertical,Conn_02x03_Odd_Even,tht
+43.09,-74.79,0.0,top,SW1,,,SW_Cherry_MX_PCB_1.00u,A,tht
+62.14,-74.79,0.0,top,SW2,,,SW_Cherry_MX_PCB_1.00u,C,tht
+43.09,-93.84,0.0,top,SW3,,,SW_Cherry_MX_PCB_1.00u,B,tht
+62.14,-93.84,0.0,top,SW4,,,SW_Cherry_MX_PCB_1.00u,D,tht
